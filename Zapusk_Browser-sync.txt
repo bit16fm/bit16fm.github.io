@@ -1,6 +1,3 @@
 browser-sync start --server --files "php/*.php,css/*.css,js/*.js,html/*.html,*.*"
-
-
-
 Простой слайд на js
 https://webformyself.com/kak-sdelat-prostoj-slajder-na-javascript-bez-jquery/
